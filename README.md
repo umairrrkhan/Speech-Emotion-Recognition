@@ -55,7 +55,7 @@ You can also use this SER system as a Python API. Import the SpeechEmotionRecogn
 
 ## How It Works
 
-###Feature Extraction
+### Feature Extraction
 
 The SER system extracts various audio features such as pitch, intensity, and spectral characteristics to create feature vectors that represent the speech. These features are then used as input to a machine learning model.
 
